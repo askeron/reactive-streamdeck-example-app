@@ -1,0 +1,21 @@
+{
+  "name": "reactive-streamdeck-example-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.24.0",
+    "open": "^7.0.2",
+    "reactive-streamdeck": "0.2.0",
+    "say": "^0.15.0",
+    "underscore": "^1.13.1",
+    "win-audio": "^2.0.2",
+    "ws": "^8.4.0"
+  }
+}
